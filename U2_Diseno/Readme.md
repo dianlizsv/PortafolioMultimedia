@@ -1,2 +1,8 @@
 **¿Cómo aplicaron los principios de usabilidad o UX/UI?** El diseño de la tarjeta busca transmitir un diseño visual atractivo para comunicar una identidad artesanal de Dulce Boutique. Se combinaron colores y tipografías que resaltaron lo dulce que es la repostería; se muestra dulce, cálida y artesanal, manteniendo una composición equilibrada y fácil de entender.  
 El uso del rosa pastel, terracota y café chocolate crea una identidad visual coherente, mientras que la combinación de las tipografías More Sugar y Raleway permite diferenciar la información principal de los datos de contacto. los elementos gráficos facilitan la identificación de las redes sociales y hacen que la tarjeta sea más llamativa y funcional.
+
+**¿Qué herramientas o tecnologías usé?** Diseñamos la tarjeta en Canva para organizar la composición, maquetar el frente y reverso, y ajustar tipografías. Paralelamente, utilizamos Adobe Color para extraer y definir con precisión los códigos cromáticos (HEX y RGB) de nuestra paleta.
+
+**¿Qué decisiones de diseño o técnicas tomé?** Elegimos un fondo rosa pastel con texto café chocolate para garantizar alto contraste y legibilidad, aplicando la regla de los tercios en el reverso y simetría al frente. Además, combinamos More Sugar en titulares con Raleway en contactos y agregamos un Call to Action.
+
+**¿Qué retos enfrenté y cómo los superé?** Enfrontamos falta de contraste inicial e inconsistencia al intentar arquear el logo en el frente. Lo superamos unificando todos los elementos de lectura a café oscuro y manteniendo la versión horizontal recta del logotipo en ambas caras para dar coherencia a la marca.
