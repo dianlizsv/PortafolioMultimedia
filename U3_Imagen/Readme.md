@@ -1,0 +1,5 @@
+**¿Qué herramientas o tecnologías usé?** Utilicé la plataforma de Canva para maquetar el póster digital y ajustar la tipografía, apoyándome también de Adobe Color para extraer los códigos exactos de mi paleta. Además, me ayudé de la inteligencia artificial para estructurar los textos de cada bloque y sintetizar la información. 
+
+**¿Qué decisiones de diseño o técnicas tomé?** Decidí organizar los 6 bloques mediante una retícula alternada en zigzag para mantener una lectura fluida. También apliqué una jerarquía clara con tres tipos de fuentes (Cy Grotesk, Contrail One y Arial MT Pro) y usé tarjetas con suficiente espacio en blanco para que el diseño no se sintiera saturado y fuera fácil de leer. 
+
+**¿Qué retos enfrenté y cómo los superé?** Mi mayor reto fue adaptar la cantidad de texto a cada tarjeta sin perder el respiro visual que pedía la actividad. Lo resolví resumiendo la información a ideas clave de tres líneas por sección y cuidando que los colores tuvieran un buen contraste para garantizar la legibilidad. 
