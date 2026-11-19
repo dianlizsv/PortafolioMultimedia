@@ -1,0 +1,5 @@
+**¿Qué herramienta o software usaron para grabar y editar?** Utilizamos la grabadora de Windows para grabar el audio, y el programa de Audacity para la edición.
+
+**¿Cuál fue el mayor reto técnico que enfrentaron y cómo lo resolvieron?** El mayor desafío fue el cómo explicar y transmitir adecuadamente en sí los conceptos visuales de la animación, lo cual resolvimos al utilizar descripciones detalladas y dividirnos las intervenciones para que cada una abordara un aspecto visual distinto.
+
+**¿Qué aprendizaje les dejó el ejercicio?** Aprendimos que hablar del arte y la animación requiere una estructura clara, ya que muchas veces no notamos pequeños o incluso grandes detalles que hay en cada película o serie, hasta que es analizada minuciosamente, como por ejemplo el cómo influyen los colores utilizados para cada personaje y escena, o la variación de los fps en la que un personaje es animado para representar un avance en su persona, sirviendo directamente a la historia y su evolución, demostrando que la animación no es solo un género para niños, sino un medio artístico complejo.
